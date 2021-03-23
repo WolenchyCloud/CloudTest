@@ -1,1 +1,3 @@
 # CloudTest
+WolenchyCloud
+Cloudready
